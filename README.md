@@ -1,4 +1,4 @@
-# Export_Favoris
+# Bookmarks Export Tool
 
 > 🇫🇷 Version française plus bas
 
@@ -20,7 +20,7 @@ Small Windows tool written in **Python** and distributed as a standalone **.exe*
 
 Head to the **Releases** section and download the latest:
 
-- `export_favoris.exe`
+- `BookmarksExportTool.exe` (or the current release name)
 
 No Python or extra setup is required on the target machine.
 
@@ -32,7 +32,7 @@ No Python or extra setup is required on the target machine.
 
 ### Usage (with the .exe)
 
-1. Download `export_favoris.exe` from the Releases page.
+1. Download `BookmarksExportTool.exe` from the Releases page.
 2. Run it on the Windows machine you want to migrate.
 3. A small window opens:
    - The tool detects which browsers are installed.
