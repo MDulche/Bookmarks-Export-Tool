@@ -87,9 +87,15 @@ pyinstaller --onefile --noconsole export_favoris.py
 
 The executable will be created in dist/BookmarksExportTool.exe (or whatever name you configure).
 
+
+---
+
+Bookmarks Export Tool est un petit outil Windows en Python, distribué sous forme d’exécutable .exe autonome, qui détecte les navigateurs installés et exporte leurs favoris dans des fichiers HTML au format Netscape (format d’export classique, importable dans tous les navigateurs).
+
+---
+
 ## 🇫🇷 Français
 (Made with Perplexity)
-Bookmarks Export Tool est un petit outil Windows en Python, distribué sous forme d’exécutable .exe autonome, qui détecte les navigateurs installés et exporte leurs favoris dans des fichiers HTML au format Netscape (format d’export classique, importable dans tous les navigateurs).
 
 ### Ce que fait l’outil
 
